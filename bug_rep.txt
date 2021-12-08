@@ -11,9 +11,3 @@ Description:
         Actual result: Stay on the page "Profile"
         Expected result: The profile editing window opens
 Assigned to: Automatically
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs

@@ -3,10 +3,9 @@ Build: 1.0
 Environment: MacOS, Google Chrome 77.0.3865.90
 Test date: 09.12.21
 Tester name: Shablova Viktoria
-Checking
-Result
-Attachments
+Checking          Result         Attachments
 
+Пример проверок сайта
 1. Регистрация
 
 Пользователь с данными существует в системе.
